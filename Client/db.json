@@ -1,0 +1,114 @@
+{
+    "products" : [
+    {
+        "id": 11,
+        "name": "Product 11",
+        "price": 8.99,
+        "description": "This is product 11",
+        "quality": "medium",
+        "discount": 0.3,
+        "image": "https://picsum.photos/id/26/200/300",
+        "category": "Category 11",
+        "featured": true
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "price": 14.99,
+        "description": "This is product 12",
+        "quality": "high",
+        "discount": 0.5,
+        "image": "https://picsum.photos/id/27/200/300",
+        "category": "Category 12",
+        "featured": true
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "price": 9.99,
+        "description": "This is product 13",
+        "quality": "medium",
+        "discount": 0.35,
+        "image": "https://picsum.photos/id/28/200/300",
+        "category": "Category 13",
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "price": 7.99,
+        "description": "This is product 14",
+        "quality": "low",
+        "discount": 0.25,
+        "image": "https://picsum.photos/id/29/200/300",
+        "category": "Category 14",
+        "featured": true
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "price": 12.99,
+        "description": "This is product 15",
+        "quality": "high",
+        "discount": 0.45,
+        "image": "https://picsum.photos/id/30/200/300",
+        "category": "Category 15",
+        "featured": false
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "price": 17.99,
+        "description": "This is product 16",
+        "quality": "medium",
+        "discount": 0.32,
+        "image": "https://picsum.photos/id/31/200/300",
+        "category": "Category 16",
+        "featured": true
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "price": 6.99,
+        "description": "This is product 17",
+        "quality": "low",
+        "discount": 0.28,
+        "image": "https://picsum.photos/id/32/200/300",
+        "category": "Category 17",
+        "featured": false
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "price": 11.99,
+        "description": "This is product 18",
+        "quality": "high",
+        "discount": 0.38,
+        "image": "https://picsum.photos/id/33/200/300",
+        "category": "Category 18",
+        "featured": false
+    },
+    {
+        "id": 19,
+        "name": "Product 19",
+        "price": 8.99,
+        "description": "This is product 19",
+        "quality": "medium",
+        "discount": 0.3,
+        "image": "https://picsum.photos/id/34/200/300",
+        "category": "Category 19",
+        "featured": true
+    },
+    {
+        "id": 20,
+        "name": "Product 20",
+        "price": 14.99,
+        "description": "This is product 20",
+        "quality": "high",
+        "discount": 0.5,
+        "image": "https://picsum.photos/id/35/200/300",
+        "category": "Category 20",
+        "featured": true
+    }
+    ]
+}
